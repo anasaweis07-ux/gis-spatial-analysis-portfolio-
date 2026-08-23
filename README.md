@@ -21,8 +21,8 @@ A collection of spatial data pipelines, catchment modeling, and thematic cartogr
 * **Directory:** [`/michigan-election-gis`](./michigan-election-gis)
 * **Technologies:** ArcGIS Pro, QGIS, Cartographic Layout Design
 * **Overview:**
-  * Joined tabular election data from the MIT Election Data + Science Lab with U.S. Census TIGER/Line county shapefiles.
+  * Joined tabular historical election dataset records from the MIT Election Data + Science Lab with U.S. Census TIGER/Line county shapefiles.
   * Calculated county-level margin changes between 2020 and 2024 to analyze regional political shifts and urban-rural divides.
   * Designed a multi-map print layout incorporating choropleth symbology, state locator insets, and standardized visual hierarchy.
 
-![Michigan Election Map](County-Level Voting Patterns in Michigan 2024.png)
+![Michigan Election Map](michigan-election-gis/County-Level%20Voting%20Patterns%20in%20Michigan%202024.png)
